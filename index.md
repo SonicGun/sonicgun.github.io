@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+## Sonic Gun to Smart Devices
 
-You can use the [editor on GitHub](https://github.com/SonicGun/sonicgun.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Slides
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ - [Black Hat USA 2017 Briefings](https://www.blackhat.com/us-17/briefings.html#sonic-gun-to-smart-devices-your-devices-lose-control-under-ultrasound-sound)
+ - [Slide](https://www.blackhat.com/docs/us-17/thursday/us-17-Wang-Sonic-Gun-To-Smart-Devices-Your-Devices-Lose-Control-Under-Ultrasound-Or-Sound.pdf) (It will be updated with [this version on SlideShare](https://www.slideshare.net/secret/MJt7rpPJZcjJcK)in a few weeks. )
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Authors
 
-```markdown
-Syntax highlighted code block
+ - Zhengbo Wang
+ - Kang Wang
+ - Bo Yang
+ - Shangyuan Li
 
-# Header 1
-## Header 2
-### Header 3
+### Acknowledgement
 
-- Bulleted
-- List
+ - Yinan Sun
+ - Ke Li
 
-1. Numbered
-2. List
+### Media Coverage
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+#### International Media
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[Forbes](https://www.forbes.com/sites/thomasbrewster/2017/07/11/alibaba-researchers-attack-facebook-vr-with-soundwaves/#63d5926b13a6) \| [Wired](https://www.wired.com/story/best-black-hat-defcon-talks/) \| [法国媒体01net](http://www.01net.com/actualites/ils-hackent-des-smartphones-et-des-gyropodes-avec-des-ultrasons-1225628.html) \| [VRScout](https://vrscout.com/news/hackers-ultrasonic-waves-disrupt-vr-headset/#) \| [Ars Technica](https://arstechnica.com/gadgets/2017/07/sounds-bad-researchers-demonstrate-sonic-gun-threat-against-smart-devices/#p3)
 
-### Jekyll Themes
+#### Chinese Media
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SonicGun/sonicgun.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[36Kr](https://36kr.com/p/5083611.html) \| [Solidot](http://www.solidot.org/story?sid=53281) \| [cnBeta](http://www.cnbeta.com/articles/tech/636609.htm) \| [Sina](http://tech.sina.com.cn/d/2017-07-31/doc-ifyinryq7213754.shtml)
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Video Demo
+
+ - [Full Playlist on Youtube](https://www.youtube.com/playlist?list=PL7A9QQ4r9GMn0svuPFadw9fuyH6_cV0qd)
+
+
+### References
+
