@@ -29,11 +29,13 @@ Yinan Sun \| Ke Li
 
 [36Kr](https://36kr.com/p/5083611.html) \| [Solidot](http://www.solidot.org/story?sid=53281) \| [cnBeta](http://www.cnbeta.com/articles/tech/636609.htm) \| [Sina](http://tech.sina.com.cn/d/2017-07-31/doc-ifyinryq7213754.shtml)
 
-## Photo
+## Black Hat USA 2017
 
 [flickr](https://www.flickr.com/photos/blackhatevents/36077466781/in/photostream/)
 
 <a data-flickr-embed="true" data-context="true"  href="https://www.flickr.com/photos/blackhatevents/36077466781/in/photostream/" title="D5X_2796"><img src="https://farm5.staticflickr.com/4306/36077466781_8848a377f0_k.jpg" width="2048" height="1365" alt="D5X_2796"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+(Video will be released in a few months by UBM.)
 
 ## Video Demo
 
@@ -43,3 +45,11 @@ Yinan Sun \| Ke Li
 
 ## References
 
+1. Man, Kin F. "MEMS reliability for space applications by elimination of potential failure modes through testing and analysis." MEMS Reliability for Critical and Space Applications. Vol. 3880. 1999. 
+2. Dean, Robert N., et al. "On the degradation of MEMS gyroscope performance in the presence of high power acoustic noise." Industrial Electronics, 2007. ISIE 2007. IEEE International Symposium on. IEEE, 2007. 
+3. Castro, Simon, et al. "Influence of acoustic noise on the dynamic performance of MEMS gyroscopes." ASME 2007 International Mechanical Engineering Congress and Exposition. American Society of Mechanical Engineers, 2007. 
+4. Son, Yunmok, et al. "Rocking Drones with Intentional Sound Noise on Gyroscopic Sensors." USENIX Security. 2015. 
+5. Trippel, Timothy, et al. "WALNUT: Waging doubt on the integrity of mems accelerometers with acoustic injection attacks." IEEE European Symposium on Security and Privacy, 2017. 
+6. Mikko Saukoski. System and circuit design for a capacitive mems gyroscope, Doctoral Dissertation, 2008. 
+7. Serrano D E, et al. Environmentally-robust high-performance tri-axial bulk acoustic wave gyroscopes. Position, Location and Navigation Symposium (PLANS), 2016. 
+8. Farshteindiker, Benyamin, et al. "How to Phone Home with Someone Else's Phone: Information Exfiltration Using Intentional Sound Noise on Gyroscopic Sensors." WOOT. 2016. 
