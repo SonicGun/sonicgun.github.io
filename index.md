@@ -21,7 +21,13 @@ Yinan Sun \| Ke Li
 ## Media Coverage
 ### International Media
 
-[Forbes](https://www.forbes.com/sites/thomasbrewster/2017/07/11/alibaba-researchers-attack-facebook-vr-with-soundwaves/#63d5926b13a6) \| [Wired](https://www.wired.com/story/best-black-hat-defcon-talks/) \| [01net (France Media)](http://www.01net.com/actualites/ils-hackent-des-smartphones-et-des-gyropodes-avec-des-ultrasons-1225628.html) \| [VRScout](https://vrscout.com/news/hackers-ultrasonic-waves-disrupt-vr-headset/#) \| [Ars Technica](https://arstechnica.com/gadgets/2017/07/sounds-bad-researchers-demonstrate-sonic-gun-threat-against-smart-devices/#p3)
+[Forbes](https://www.forbes.com/sites/thomasbrewster/2017/07/11/alibaba-researchers-attack-facebook-vr-with-soundwaves/#63d5926b13a6) \| [Wired](https://www.wired.com/story/best-black-hat-defcon-talks/) \| [01net (France Media)](http://www.01net.com/actualites/ils-hackent-des-smartphones-et-des-gyropodes-avec-des-ultrasons-1225628.html) \| [VRScout](https://vrscout.com/news/hackers-ultrasonic-waves-disrupt-vr-headset/#) \| [Ars Technica](https://arstechnica.com/gadgets/2017/07/sounds-bad-researchers-demonstrate-sonic-gun-threat-against-smart-devices/#p3) 
+
+[PcMag](http://uk.pcmag.com/news/90509/ultrasonic-gun-tips-hoverboards-and-wobbles-vr
+) \| [MacObserver](https://www.macobserver.com/news/sonic-gun-interferes-iphone/) \| [YouOptions.eu](https://www.youoptions.eu/sounds-bad-researchers-demonstrate-sonic-gun-threat-against-smart-devices) 
+[FieldServiceDemand](http://fieldservicesondemand.co/blog/2017/07/28/seems-terrible-researchers-reveal-sonic-gun-threat-towards-sensible-equipment/) \| [TechGroundNews](http://techgroundnews.com/gadgets/sounds-bad-researchers-demonstrate-sonic-gun-threat-against-smart-devices/) \| [WebGuyz.nyc](http://webguyz.nyc/hackers-use-ultrasonic-waves-to-disrupt-vr-headsets/) \| [Tech2](http://www.tech2.org/sounds-dangerous-researchers-exhibit-sonic-gun-risk-towards-sensible-units/) \| [Abilk](http://abilk.com/sounds-bad-researchers-demonstrate-sonic-gun-threat-against-smart-devices/) \| [3dvrcentral](http://3dvrcentral.com/2017/07/13/hackers-use-ultrasonic-waves-to-disrupt-vr-headsets/) \| [TechSwitch](https://www.techswitch.cf/2017/07/28/ultrasonic-gun-tips-hoverboards-and-wobbles-vr-news-opinion/) \| [CRN](http://www.crn.com/slide-shows/internet-of-things/300089496/black-hat-2017-9-iot-security-threats-to-watch.htm/pgno/0/6) \| [FollowNews](https://www.follownews.com/sounds-bad-researchers-demonstrate-sonic-gun-threat-against-smart-devices-3bqmq) 
+
+
 
 ### Chinese Media
 
