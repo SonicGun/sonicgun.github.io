@@ -58,3 +58,5 @@ Yinan Sun \| Ke Li
 6. Mikko Saukoski. System and circuit design for a capacitive mems gyroscope, Doctoral Dissertation, 2008. 
 7. Serrano D E, et al. Environmentally-robust high-performance tri-axial bulk acoustic wave gyroscopes. Position, Location and Navigation Symposium (PLANS), 2016. 
 8. Farshteindiker, Benyamin, et al. "How to Phone Home with Someone Else's Phone: Information Exfiltration Using Intentional Sound Noise on Gyroscopic Sensors." WOOT. 2016. 
+
+![](https://sonicgun.github.io/Alibaba-Security.png)
