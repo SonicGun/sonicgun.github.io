@@ -53,7 +53,7 @@ Yinan Sun \| Ke Li
 8. Farshteindiker, Benyamin, et al. "How to Phone Home with Someone Else's Phone: Information Exfiltration Using Intentional Sound Noise on Gyroscopic Sensors." WOOT. 2016. 
 
 <p align="center">
-  <img src="https://sonicgun.github.io/Alibaba-Security.png" alt="Alibaba Security Logo"/>
+  <img style="max-width:100px" src="https://sonicgun.github.io/Alibaba-Security.png" alt="Alibaba Security Logo"/>
 </p>
 
 ## See Also 
