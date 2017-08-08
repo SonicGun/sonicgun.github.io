@@ -52,10 +52,10 @@ Yinan Sun \| Ke Li
 7. Serrano D E, et al. Environmentally-robust high-performance tri-axial bulk acoustic wave gyroscopes. Position, Location and Navigation Symposium (PLANS), 2016. 
 8. Farshteindiker, Benyamin, et al. "How to Phone Home with Someone Else's Phone: Information Exfiltration Using Intentional Sound Noise on Gyroscopic Sensors." WOOT. 2016. 
 
-## See Also 
-
-1. <http://tardis.wikia.com/wiki/Sonic_screwdriver>
-
 <p align="center">
   <img style="max-width:100px" src="https://sonicgun.github.io/Alibaba-Security.png" alt="Alibaba Security Logo"/>
 </p>
+
+## See Also 
+
+1. <http://tardis.wikia.com/wiki/Sonic_screwdriver>
