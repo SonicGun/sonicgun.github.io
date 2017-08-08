@@ -7,7 +7,7 @@ Using a home-built ultrasound/sound emitting system, we launch attacks towards p
 ## Slides
 
  - [Black Hat USA 2017 Briefings](https://www.blackhat.com/us-17/briefings.html#sonic-gun-to-smart-devices-your-devices-lose-control-under-ultrasound-sound)
- - [Slide](https://www.blackhat.com/docs/us-17/thursday/us-17-Wang-Sonic-Gun-To-Smart-Devices-Your-Devices-Lose-Control-Under-Ultrasound-Or-Sound.pdf) (will be updated with [this version](https://www.slideshare.net/secret/MJt7rpPJZcjJcK) soon.)
+ - [Slides](https://www.blackhat.com/docs/us-17/thursday/us-17-Wang-Sonic-Gun-To-Smart-Devices-Your-Devices-Lose-Control-Under-Ultrasound-Or-Sound.pdf)
 
 
 ## Authors
