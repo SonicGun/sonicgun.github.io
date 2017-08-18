@@ -37,13 +37,14 @@ Yinan Sun \| Ke Li
 
 ## Video Demo
 
- - [Full Playlist on Youtube](https://www.youtube.com/playlist?list=PL7A9QQ4r9GMn0svuPFadw9fuyH6_cV0qd)
-
-
 **Hoverboard:**
 
- - Mi Ninebot: [Inside Without PA](https://www.youtube.com/watch?v=wc779l8sDG0&index=2&list=PL7A9QQ4r9GMn0svuPFadw9fuyH6_cV0qd) \| [Outside Without PA](https://www.youtube.com/watch?v=34DLF6Aa-6U&list=PL7A9QQ4r9GMn0svuPFadw9fuyH6_cV0qd&index=4) \| [Outside With PA](https://www.youtube.com/watch?v=BqpXB97CAUc&index=1&list=PL7A9QQ4r9GMn0svuPFadw9fuyH6_cV0qd) 
- - [MiTu Toy Robot](https://www.youtube.com/watch?v=IrInKCcrkg0&list=PL7A9QQ4r9GMn0svuPFadw9fuyH6_cV0qd&index=3) \| [DIY Self Balancing Vehicle (Accelerometer)](https://www.youtube.com/watch?v=tO5OxbbA1hU&list=PL7A9QQ4r9GMn0svuPFadw9fuyH6_cV0qd&index=10)
+ - Mi Ninebot: 
+   - [Inside Without PA](https://www.youtube.com/watch?v=wc779l8sDG0&index=2&list=PL7A9QQ4r9GMn0svuPFadw9fuyH6_cV0qd) 
+   - [Outside Without PA](https://www.youtube.com/watch?v=34DLF6Aa-6U&list=PL7A9QQ4r9GMn0svuPFadw9fuyH6_cV0qd&index=4) 
+   - [Outside With PA](https://www.youtube.com/watch?v=BqpXB97CAUc&index=1&list=PL7A9QQ4r9GMn0svuPFadw9fuyH6_cV0qd) 
+ - [MiTu Toy Robot](https://www.youtube.com/watch?v=IrInKCcrkg0&list=PL7A9QQ4r9GMn0svuPFadw9fuyH6_cV0qd&index=3)
+ - [DIY Self Balancing Vehicle (Accelerometer)](https://www.youtube.com/watch?v=tO5OxbbA1hU&list=PL7A9QQ4r9GMn0svuPFadw9fuyH6_cV0qd&index=10)
 
 **DJI:**
 
@@ -51,16 +52,23 @@ Yinan Sun \| Ke Li
  - [DJI Phantom3 Standard Camera](https://www.youtube.com/watch?v=8CF6Yifd1A0&list=PL7A9QQ4r9GMn0svuPFadw9fuyH6_cV0qd&index=6)
  - [DJI Osmo](https://www.youtube.com/watch?v=YSB824x5w00&list=PL7A9QQ4r9GMn0svuPFadw9fuyH6_cV0qd&index=17)
 
-**VR:** [Oculus](https://www.youtube.com/watch?v=5w01GJ2oc_o&t=1s&list=PL7A9QQ4r9GMn0svuPFadw9fuyH6_cV0qd&index=7) \| [HTC Vive Controller](https://www.youtube.com/watch?v=9GeNLGgFf0w&list=PL7A9QQ4r9GMn0svuPFadw9fuyH6_cV0qd&index=8) \| [HoloLens](https://www.youtube.com/watch?v=w11fwAeMHkQ&list=PL7A9QQ4r9GMn0svuPFadw9fuyH6_cV0qd&index=9) \| [HTC Vive](https://www.youtube.com/watch?v=2YWdsS5YXqk&list=PL7A9QQ4r9GMn0svuPFadw9fuyH6_cV0qd&index=14)
+**VR:** 
 
-**iPhone 7:** [iPhone7](https://www.youtube.com/watch?v=yAgiwzUAR7I&list=PL7A9QQ4r9GMn0svuPFadw9fuyH6_cV0qd&index=13) \| [Facebook VR with doppler](https://www.youtube.com/watch?v=McNM29Zk1O8&list=PL7A9QQ4r9GMn0svuPFadw9fuyH6_cV0qd&index=15) \| [Compass.app](https://www.youtube.com/watch?v=Xh_3KY2Tx1Y&list=PL7A9QQ4r9GMn0svuPFadw9fuyH6_cV0qd&index=16)
+ - [Oculus](https://www.youtube.com/watch?v=5w01GJ2oc_o&t=1s&list=PL7A9QQ4r9GMn0svuPFadw9fuyH6_cV0qd&index=7) \| [HTC Vive Controller](https://www.youtube.com/watch?v=9GeNLGgFf0w&list=PL7A9QQ4r9GMn0svuPFadw9fuyH6_cV0qd&index=8) \| [HoloLens](https://www.youtube.com/watch?v=w11fwAeMHkQ&list=PL7A9QQ4r9GMn0svuPFadw9fuyH6_cV0qd&index=9) \| [HTC Vive](https://www.youtube.com/watch?v=2YWdsS5YXqk&list=PL7A9QQ4r9GMn0svuPFadw9fuyH6_cV0qd&index=14)
 
-Overview:
+**iPhone 7:** 
+
+ - [iPhone7](https://www.youtube.com/watch?v=yAgiwzUAR7I&list=PL7A9QQ4r9GMn0svuPFadw9fuyH6_cV0qd&index=13) \| [Facebook VR with doppler](https://www.youtube.com/watch?v=McNM29Zk1O8&list=PL7A9QQ4r9GMn0svuPFadw9fuyH6_cV0qd&index=15) \| [Compass.app](https://www.youtube.com/watch?v=Xh_3KY2Tx1Y&list=PL7A9QQ4r9GMn0svuPFadw9fuyH6_cV0qd&index=16)
+
+**Overview:**
+
  - [Low-power Interference Ultrasound](https://www.youtube.com/watch?v=SoO7L8uFnh4&list=PL7A9QQ4r9GMn0svuPFadw9fuyH6_cV0qd&index=12)
  - [Finger Spinner - For the love of physics](https://www.youtube.com/watch?v=8J2Qr4CPqQw&list=PL7A9QQ4r9GMn0svuPFadw9fuyH6_cV0qd&index=18)
  - [Bonus: Another usage of hoverboard](https://www.youtube.com/watch?v=IqPMoYEzmXc&list=PL7A9QQ4r9GMn0svuPFadw9fuyH6_cV0qd&index=5)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL7A9QQ4r9GMn0svuPFadw9fuyH6_cV0qd" frameborder="0" allowfullscreen></iframe>
+
+ - [Full Playlist on Youtube](https://www.youtube.com/playlist?list=PL7A9QQ4r9GMn0svuPFadw9fuyH6_cV0qd)
 
 ## References
 
