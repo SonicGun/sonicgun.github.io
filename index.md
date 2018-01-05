@@ -33,7 +33,7 @@ Yinan Sun \| Ke Li
 
 <a data-flickr-embed="true" data-context="true"  href="https://www.flickr.com/photos/blackhatevents/36077466781/in/photostream/" title="D5X_2796"><img src="https://farm5.staticflickr.com/4306/36077466781_8848a377f0_k.jpg" width="598" height="400" alt="D5X_2796"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-(Video will be released in a few months by UBM.)
+[Youtube](https://www.youtube.com/watch?v=ytXH_igvlGA)
 
 ## Video Demo
 
