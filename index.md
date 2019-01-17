@@ -94,4 +94,4 @@ Yinan Sun \| Ke Li
 
 ## Referenced by
 
-1. [Y. Tu, Z. Lin, I. Lee, and X. Hei, “Injected and Delivered: Fabricating Implicit Control over Actuation Systems by Spoofing Inertial Sensors,” arXiv:1806.07558 [cs], Jun. 2018.](https://arxiv.org/pdf/1806.07558.pdf)
+1. [Y. Tu, Z. Lin, I. Lee, and X. Hei, “Injected and Delivered: Fabricating Implicit Control over Actuation Systems by Spoofing Inertial Sensors,” in 27th USENIX Security Symposium (USENIX Security 18), Baltimore, MD, 2018, pp. 1545–1562.](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-tu.pdf)
