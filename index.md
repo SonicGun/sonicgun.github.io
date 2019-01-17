@@ -90,3 +90,8 @@ Yinan Sun \| Ke Li
 ## See Also 
 
 1. <http://tardis.wikia.com/wiki/Sonic_screwdriver>
+
+
+## Referenced by
+
+1. [Y. Tu, Z. Lin, I. Lee, and X. Hei, “Injected and Delivered: Fabricating Implicit Control over Actuation Systems by Spoofing Inertial Sensors,” arXiv:1806.07558 [cs], Jun. 2018.](https://arxiv.org/pdf/1806.07558.pdf)
